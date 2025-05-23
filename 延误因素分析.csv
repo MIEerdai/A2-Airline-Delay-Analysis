@@ -1,0 +1,6 @@
+delaytype,totalminutes,percentage
+LateAircraftDelay,24566219,33.61
+NASDelay,24472485,33.48
+CarrierDelay,18833073,25.77
+WeatherDelay,5037460,6.89
+SecurityDelay,179219,0.25
